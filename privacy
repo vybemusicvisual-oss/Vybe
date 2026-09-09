@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy | Vybe</title>
+  <style>
+    body { max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; color: #17211b;
+      background: #fffef9; font: 17px/1.7 Georgia, serif; }
+    header { border-bottom: 1px solid #ccd6cd; padding-bottom: 18px; }
+    nav a { margin-right: 18px; color: #214f3c; }
+    h1, h2 { font-family: "Trebuchet MS", sans-serif; }
+    h1 { font-size: 2.6rem; line-height: 1.1; }
+    h2 { margin-top: 38px; font-size: 1.25rem; }
+    .date { color: #5d6860; }
+    footer { margin-top: 56px; border-top: 1px solid #ccd6cd; padding-top: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <strong>Vybe</strong>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="terms.html">Terms</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Privacy Policy</h1>
+    <p class="date">Effective date: September 9, 2026</p>
+
+    <p>This Privacy Policy explains how Vybe processes information when you use
+    its locally operated video creation and publishing features.</p>
+
+    <h2>1. Information Vybe Processes</h2>
+    <p>Vybe may process project titles, prompts, captions, lyrics, images, audio,
+    videos, local file paths, publishing preferences, connected-account
+    identifiers, publication status, and technical error information. This
+    information is used to create media and perform actions requested by the user.</p>
+
+    <h2>2. TikTok Account Information</h2>
+    <p>When you connect TikTok, Vybe may receive your TikTok open identifier,
+    creator username, display name, granted permissions, available privacy
+    options, interaction settings, maximum permitted video duration, publication
+    identifier, and publication status.</p>
+    <p>Vybe does not receive or store your TikTok password. Authentication is
+    handled by TikTok through its official authorization service.</p>
+
+    <h2>3. OAuth Tokens</h2>
+    <p>TikTok refresh tokens are encrypted and stored on the user’s local device.
+    They are used only to obtain access tokens needed for creator-authorized
+    actions. Access and refresh tokens are not intentionally displayed in the
+    user interface or included in public project files.</p>
+
+    <h2>4. Video Publishing</h2>
+    <p>Videos, captions, privacy selections, interaction settings, and required
+    content disclosures are sent to TikTok only after the user explicitly
+    reviews and confirms a publishing action. TikTok processes submitted
+    information according to its own terms and privacy policy.</p>
+
+    <h2>5. Local Data Storage</h2>
+    <p>Vybe is designed to operate locally. Project files, settings, publication
+    records, and encrypted account authorizations are stored on the user’s
+    device. Vybe does not operate a centralized user-profile database for this
+    local installation.</p>
+
+    <h2>6. Data Sharing</h2>
+    <p>Vybe sends information to a connected platform only as necessary to
+    complete an action requested by the user. Information may also be processed
+    by user-selected media or AI providers when their features are used. Vybe
+    does not sell personal information and does not share personal information
+    for targeted advertising.</p>
+
+    <h2>7. Data Retention and Deletion</h2>
+    <p>Information remains on the local device until it is deleted by the user.
+    Disconnecting TikTok removes the locally stored TikTok authorization used by
+    Vybe. Local project and publication records may remain until the user deletes
+    them or removes the application’s local data. Users may also revoke Vybe’s
+    access through their TikTok account settings.</p>
+
+    <h2>8. Security</h2>
+    <p>Vybe uses reasonable safeguards appropriate for a local application,
+    including encryption of stored refresh tokens. No storage or transmission
+    method is completely secure. Users are responsible for protecting their
+    computer, operating-system account, local files, and connected accounts.</p>
+
+    <h2>9. Third-Party Services</h2>
+    <p>Vybe may connect to services such as TikTok, YouTube, media providers, and
+    AI providers. Those services process information under their own privacy
+    policies. Vybe does not control their security, retention practices, service
+    availability, or independent use of information.</p>
+
+    <h2>10. Children’s Privacy</h2>
+    <p>Vybe is not directed to children under 13 and is not intended to collect
+    personal information from children. Users must satisfy the age requirements
+    of each connected third-party platform.</p>
+
+    <h2>11. Changes to This Policy</h2>
+    <p>This policy may be updated when Vybe’s functionality, legal obligations,
+    or third-party integrations change. The effective date will be revised when
+    an updated policy is published.</p>
+
+    <h2>12. Contact</h2>
+    <p>Questions or requests concerning this policy may be directed to the
+    operator through the GitHub profile that publishes this website.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Vybe. All rights reserved.</p>
+  </footer>
+</body>
+</html>
